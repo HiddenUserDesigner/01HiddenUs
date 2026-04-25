@@ -33,4 +33,12 @@ Soy estudiante de programación/ingeniería de sistemas/etc...
   ![USER](https://github.com/HiddenUserDesigner/01HiddenUs/blob/main/descarga.jpg?raw=true)
 
   <img src= "https://github.com/HiddenUserDesigner/01HiddenUs/blob/main/descarga.jpg?raw=true" width="200">
+
+  <img src="URL_DE_IMAGEN" width="300" height="200">
+
+  <p align="center">
+  <img src="URL_DE_IMAGEN" width="250">
+</p>
+
+
   
