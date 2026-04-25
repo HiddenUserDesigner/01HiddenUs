@@ -30,5 +30,5 @@ Soy estudiante de programación/ingeniería de sistemas/etc...
 
   [Url.Sound](https://www.tiktok.com/@dailylaughingbird/video/7234618756524363014)
 
-  ![USER](a qui se inserta la direccion de la foto)
+  ![USER](https://github.com/HiddenUserDesigner/01HiddenUs/blob/main/descarga.jpg?raw=true)
   
