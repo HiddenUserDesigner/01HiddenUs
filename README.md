@@ -31,4 +31,6 @@ Soy estudiante de programación/ingeniería de sistemas/etc...
   [Url.Sound](https://www.tiktok.com/@dailylaughingbird/video/7234618756524363014)
 
   ![USER](https://github.com/HiddenUserDesigner/01HiddenUs/blob/main/descarga.jpg?raw=true)
+
+  <img src= "https://github.com/HiddenUserDesigner/01HiddenUs/blob/main/descarga.jpg?raw=true" width="200">
   
