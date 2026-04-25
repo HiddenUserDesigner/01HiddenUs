@@ -41,4 +41,21 @@ Soy estudiante de programación/ingeniería de sistemas/etc...
 </p>
 
 
+💻 Tech Stack:
+CSS3 HTML5 Cloudflare Google Cloud MySQL PocketBase Adobe Adobe Acrobat Reader Adobe Lightroom Blender GitHub Git GitHub Actions GitLab CI GitLab
+
+📊 GitHub Stats:
+
+
+
+
+
+
+🏆 GitHub Trophies
+
+
+✍️ Random Dev Quote
+
+
+🔝 Top Contributed Repo
   
