@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center"> Hola, que hay para hoy?</h1>
+<h1 align="center"> How is it going ?</h1>
 
 
 
@@ -7,15 +7,89 @@
 </div>
 
 <div align="center">
-<h2 align="center">Herramientas</h2>
+
+# 🚀 Skills/Goals
+
+### Learning • Building • Working Hard 
+
 </div>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/0aef9d6a-59f8-4237-a2d8-3b431d92e4b2" width="170">
-  <img  src="https://github.com/user-attachments/assets/5991083d-098f-4c82-8a29-958e6fcb9df2" width="170">
-  <img  src="https://github.com/user-attachments/assets/30c53e16-fdba-4f34-b7b6-e503b7c82098" width="170" >
-  <img  src="https://github.com/user-attachments/assets/76ee4a4f-3539-407f-9453-d939ffdbb71f" width="170" >
-</p>
+<br>
+
+<table align="center">
+
+
+<tr>
+
+<td align="center" width="250">
+
+## 🤖
+### AI
+
+Artificial Intelligence,  
+Machine Learning, automation  
+and intelligent systems.
+
+</td>
+
+<td align="center" width="250">
+
+## ❄️
+### Industrial Refrigeration
+
+Industrial refrigeration experience,  
+cooling systems, controls  
+and technology.
+
+</td>
+
+<td align="center" width="250">
+
+## ⚙️
+### Engineering
+
+Problem solving, technical  
+knowledge and engineering  
+projects. Investigation and searching
+
+</td>
+
+
+
+
+<td align="center" width="250">
+
+## 💻
+### Programming
+
+Building software,  
+learning new technologies  
+and creating solutions.
+
+</td>
+
+
+<td align="center" width="250">
+
+## 🚀
+### Projects
+
+Turning my ideas into my own
+real projects.
+
+</td>
+
+
+
+</table>
+
+<br>
+
+<div align="center">
+
+### 🧠 Keep Learning • 💪 Work Hard • 🚀 Build • 🤖 Innovate
+
+</div>
 
 
 
